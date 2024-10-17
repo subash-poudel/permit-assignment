@@ -31,7 +31,7 @@ function createMainResources(): { [key: string]: ResourceUpdate[] } {
         };
         createResourcesMap[entity1].actions = newAction;
       } else {
-        console.log("weird state investigate");
+        console.log("shouldn't happen but if it does, weird state investigate");
       }
     } else {
       createResourcesMap[entity1] = {
