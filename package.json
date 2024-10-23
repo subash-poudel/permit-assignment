@@ -15,6 +15,7 @@
     "@visx/hierarchy": "^3.3.0",
     "@visx/responsive": "^3.10.2",
     "@visx/shape": "^3.5.0",
+    "@xyflow/react": "^12.3.2",
     "axios": "^1.7.7",
     "d3-shape": "^3.2.0",
     "highcharts": "^11.4.8",
